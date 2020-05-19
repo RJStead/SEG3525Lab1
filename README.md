@@ -1,1 +1,1 @@
-# SiteWebSEG3525
+https://rjstead.github.io/SEG3525Lab1/
